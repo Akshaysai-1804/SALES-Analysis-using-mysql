@@ -1,5 +1,5 @@
 # SALES Analysis using mysql.
-# $ {\color {blue} SALES \ Analysis \ using \ Mysql} $
+# ${\color{blue} Sales \ Analysis\ using\ Mysql} $
 
 # Objective
 To perform insightful analysis on sales data using SQL to uncover trends, patterns, and business metrics that support decision-making.
